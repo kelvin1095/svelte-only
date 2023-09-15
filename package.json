@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "svelte": "^4.2.0",
+    "svelte-loader": "^3.1.9",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
