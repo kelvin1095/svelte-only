@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "css-loader": "^6.8.1",
-    "style-loader": "^3.3.3",
+    "mini-css-extract-plugin": "^2.7.6",
     "svelte": "^4.2.0",
     "svelte-loader": "^3.1.9",
     "webpack": "^5.88.2",
